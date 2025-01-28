@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+body{
+	width:1100px;
+}
+.firstImage{
+	width: 500px;
+	height:300px;
+}
+.tableImage{
+	width:200px;
+}
+table{
+	border:1px solid black;
+	
+}
